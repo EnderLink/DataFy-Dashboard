@@ -8,9 +8,9 @@ import json
 from collections import defaultdict
 
 # ----------------------- Spotify OAuth Configuration -----------------------
-CLIENT_ID = 'b952603815444f8793e715414709a738'
-CLIENT_SECRET = 'ef739a7093854c80a3f3122450d3762d'
-REDIRECT_URI = 'http://127.0.0.1:8888/callback'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
+REDIRECT_URI = ''
 SCOPE = 'user-read-recently-played user-top-read user-read-playback-position'
 
 # ----------------------- Authentication Function (adjusted from script) -----------------------
